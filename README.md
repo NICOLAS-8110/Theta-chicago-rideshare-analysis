@@ -52,10 +52,10 @@ El proyecto se desarrolló extrayendo y procesando información desde una base d
 * Gráficos comparativos de distribución de tiempos de viaje bajo diferentes escenarios climáticos.
 
 ## 📂 Archivos Principales
-* `Θ_Proyecto_Theta___Análisis_de_Viajes_Compartidos_en_Chicago.ipynb` (o `theta_chicago_rideshare_analysis.ipynb`)
-* `project_sql_result_01.csv`
-* `project_sql_result_04.csv`
-* `project_sql_result_07.csv`
+* `Proyecto_Theta___Análisis_de_Viajes_Compartidos_en_Chicago.ipynb`
+* `moved_project_sql_result_01.csv`
+* `moved_project_sql_result_04.csv`
+* `moved_project_sql_result_07.csv`
 
 ## 🏁 Conclusión
 El análisis integral mediante SQL y Python permitió a Zuber descifrar las dinámicas críticas del transporte urbano en Chicago. La alta concentración de viajes en actores clave como *Flash Cab*, la centralidad indiscutible de zonas como el *Loop* y la fuerte afectación del clima en rutas estratégicas como el trayecto al Aeropuerto O'Hare (validado estadísticamente) ofrecen una ventaja operativa invaluable. Estos hallazgos proporcionan bases sólidas para anticipar cambios en la demanda, optimizar la asignación de recursos y fortalecer la estrategia competitiva de Zuber en el mercado.
